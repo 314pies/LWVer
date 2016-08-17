@@ -1,1 +1,1 @@
-150,26,13,/*0=Standard, 1=Beta, 2=Alpha*/
+39,26,13,/*0=Standard, 1=Beta, 2=Alpha*/
